@@ -4,20 +4,17 @@
       "title" : "Flowey",
       "content" : "only 5 inches",
       "price" : 120000,
-      "img" : 'https://jellyzoo.github.io/ex_img/cont5_img2.jpg',
     },
     {
       "id" : 7,
       "title" : "Baby shoes",
       "content" : "for less than 6",
       "price" : 120000,
-         "img" : 'https://jellyzoo.github.io/ex_img/cont5_img3.jpg',
     },
     {
       "id" : 8,
       "title" : "Red Herring",
       "content" : "Born in France",
       "price" : 120000,
-         "img" : 'https://jellyzoo.github.io/ex_img/cont5_img4.jpg',
     }
   ]
